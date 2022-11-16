@@ -12,6 +12,7 @@ nerve damage
 Kidney disease also increases your risk of having heart and blood vessel disease. These problems may happen slowly over a long time. Early detection and treatment can often keep chronic kidney disease from getting worse. When kidney disease progresses, it may eventually lead to kidney failure, which requires dialysis or a kidney transplant to maintain life.
 
 Team ID : PNT2022TMID38362
+
 Training Branch : B11-5A1E
 
 Team Size : 4
